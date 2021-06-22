@@ -1,0 +1,10 @@
+#How to setup
+
+1. run "npm install"
+2. run "gatsby develop"
+3. see the webpage on "localhost://8000"  
+
+
+# Portfolio Website is live on
+
+https://rohit-mittal-portfolio.netlify.app/
